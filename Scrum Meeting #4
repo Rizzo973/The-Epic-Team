@@ -1,0 +1,13 @@
+Date: 10/7/26
+Members Present: Braeden Perez, James Rizzo, Evan Belmont, Ian Mejia Gomez
+What we discussed:
+Met with Professor Kodie McNamara to get a better understanding of the project requirements.
+Went over the first part of the project, Assignment File Creation.
+Professor McNamara showed us an example of how he wants the assignment information to be organized into different columns on his end.
+Discussed how the program would take a text file containing assignment questions and create a separate file where students can enter their answers.
+Learned more about how the assignment information should be organized and how the student answer files would be used.
+Our Next Steps:
+Figure out how to use Python to read assignment questions from a text file.
+Plan how to create student answer files based on the assignment questions and the format Professor McNamara wants.
+Use the example he showed us to better understand how the assignment information should be organized.
+Continue working with Professor McNamara to clarify the requirements for the other two parts of the project.
