@@ -1,0 +1,8 @@
+{
+  "status": "EXAMPLE ONLY — instructor must review and replace this key",
+  "questions": {
+    "Q1": {"points": 1, "expected_code": "print(\"Hello, world!\")"},
+    "Q2": {"points": 1, "expected_code": "total = 3 + 4"},
+    "Q3": {"points": 1, "expected_code": "for number in range(1, 4):\n    print(number)"}
+  }
+}

@@ -1,0 +1,30 @@
+EXAMPLE SUBMISSION — fictional student; Q2 is intentionally incorrect.
+STUDENT_ID: example_001
+
+QUESTION: Q1
+Write one line of Python that prints Hello, world!
+CODE:
+print("Hello, world!")
+END_CODE
+EXPLANATION:
+print displays the greeting.
+END_EXPLANATION
+
+QUESTION: Q2
+Set total to the sum of 3 and 4 using Python.
+CODE:
+total = 3 * 4
+END_CODE
+EXPLANATION:
+This is intentionally wrong to demonstrate grading.
+END_EXPLANATION
+
+QUESTION: Q3
+Write a loop that prints the numbers 1, 2, and 3.
+CODE:
+for number in range(1, 4):
+    print(number)
+END_CODE
+EXPLANATION:
+range stops before 4, so the loop prints 1 through 3.
+END_EXPLANATION

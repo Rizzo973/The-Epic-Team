@@ -1,0 +1,5 @@
+﻿submission_file,student_id,question_id,code,explanation,status,points_earned,points_possible,note
+example_student.txt,example_001,Q1,"print(""Hello, world!"")",print displays the greeting.,matches_key,1,1,Provisional text comparison; instructor review required.
+example_student.txt,example_001,Q2,total = 3 * 4,This is intentionally wrong to demonstrate grading.,review_needed,0,1,Provisional text comparison; instructor review required.
+example_student.txt,example_001,Q3,"for number in range(1, 4):
+    print(number)","range stops before 4, so the loop prints 1 through 3.",matches_key,1,1,Provisional text comparison; instructor review required.

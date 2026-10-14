@@ -1,0 +1,29 @@
+EXAMPLE TEMPLATE — replace the student ID and all PLACEHOLDER answers.
+STUDENT_ID: REPLACE_WITH_YOUR_ID
+
+QUESTION: Q1
+Write one line of Python that prints Hello, world!
+CODE:
+# PLACEHOLDER: enter your code here
+END_CODE
+EXPLANATION:
+PLACEHOLDER: briefly explain your code.
+END_EXPLANATION
+
+QUESTION: Q2
+Set total to the sum of 3 and 4 using Python.
+CODE:
+# PLACEHOLDER: enter your code here
+END_CODE
+EXPLANATION:
+PLACEHOLDER: briefly explain your code.
+END_EXPLANATION
+
+QUESTION: Q3
+Write a loop that prints the numbers 1, 2, and 3.
+CODE:
+# PLACEHOLDER: enter your code here
+END_CODE
+EXPLANATION:
+PLACEHOLDER: briefly explain your code.
+END_EXPLANATION

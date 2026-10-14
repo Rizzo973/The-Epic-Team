@@ -1,0 +1,8 @@
+EXAMPLE ASSIGNMENT — replace these questions with the professor's assignment.
+
+Q1 (1 point): Write one line of Python that prints Hello, world!
+Q2 (1 point): Set total to the sum of 3 and 4 using Python.
+Q3 (1 point): Write a loop that prints the numbers 1, 2, and 3.
+
+Students: copy student_answer_template.txt, rename it with your student ID,
+and enter code directly under each question. Keep all marker lines unchanged.
