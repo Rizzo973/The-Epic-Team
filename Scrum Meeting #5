@@ -1,0 +1,18 @@
+Date: 10/14/26
+Members Present: Braeden Perez, James Rizzo, Evan Belmont, Ian Mejia Gomez
+What we discussed:
+Started working on Step 1 of the project, Assignment File Creation.
+Created a project folder and organized the files needed for the assignment automation system.
+Created assignment_questions.txt to store sample assignment questions that can later be replaced with Professor McNamara's actual questions.
+Created student_answer_template.txt to give students a consistent format for submitting their code and explanations.
+Added example_student.txt as a sample student submission to demonstrate the answer format.
+Created solution_key.json to store the expected answers and point values for each question.
+Created the initial version of grade_submissions.py to read student submissions, compare their code with the solution key, and save the results in a CSV file.
+Reviewed how results/grades.csv organizes student answers, grading statuses, and provisional points.
+Added a README file explaining the project and a .gitignore file to help manage which files Git tracks.
+Our Next Steps:
+Continue developing Step 1 so the program can use assignment questions from a text file to create student answer templates.
+Test the student answer template to make sure submissions follow the required format.
+Test the grading script using the example student submission and solution key.
+Review the CSV output to make sure the grading results are organized correctly.
+Continue improving the prototype and clarify the requirements for the remaining parts of the project with Professor McNamara.
