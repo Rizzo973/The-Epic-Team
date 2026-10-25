@@ -1,0 +1,18 @@
+Date: October 25, 2026
+Members Present: Braeden Perez, James Rizzo, Evan Belmont, Ian Mejia Gomez
+What We Discussed and Worked On
+Worked together on our first working version of the automated grading project for Professor Kodie McNamara from the Mathematics Department.
+Created and reviewed the assignment_questions.txt file containing three example Python questions.
+Worked on the student_answer_template.txt file to establish a consistent format for students to enter their student IDs, code answers, and explanations.
+Set up the solution_key.json file to store the expected answers and point values for each question.
+Developed and reviewed the grade_submissions.py program, which reads student submissions, extracts answers, checks formatting, and compares submitted code against the solution key.
+Reviewed how the program handles missing answers, unknown question IDs, and submissions with incorrect formatting.
+Examined the generated grades.csv file to see how the program records student answers, grading statuses, points earned, and instructor review notes.
+Worked together to understand how the different files connect to form a complete grading process, from providing assignment questions to generating grading results.
+Completed our first repository check-in oral exam, during which we demonstrated and discussed our project's current progress, explained the purpose of our files, and reviewed how our program processes student submissions.
+Discussed the current limitations of our grading system, including its reliance on text comparison and the need for instructor review when submitted code does not match the expected answer exactly.
+Our Next Steps:
+Continue testing the program with additional sample student submissions.
+Improve the program's handling of different answers, missing responses, and formatting errors.
+Review the grading results and identify areas where the program could be made more reliable.
+Continue developing the project based on our current progress and any feedback received during the repository check-in.
