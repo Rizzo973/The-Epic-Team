@@ -1,0 +1,25 @@
+STUDENT_ID: DEMO001
+
+QUESTION: Q1
+CODE:
+print("Hello, world!")
+END_CODE
+EXPLANATION:
+This prints Hello, world!
+END_EXPLANATION
+
+QUESTION: Q2
+CODE:
+total = 3 - 4
+END_CODE
+EXPLANATION:
+This subtracts 4 from 3.
+END_EXPLANATION
+
+QUESTION: Q3
+CODE:
+# PLACEHOLDER: enter your code here
+END_CODE
+EXPLANATION:
+PLACEHOLDER: briefly explain your code.
+END_EXPLANATION
