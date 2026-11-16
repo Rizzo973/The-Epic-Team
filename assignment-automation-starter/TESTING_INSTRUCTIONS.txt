@@ -1,1 +1,39 @@
+HOW TO TEST OUR ASSIGNMENT REVIEW PROGRAM
 
+What it does:
+The program reads student answers from text files, compares
+their code with an answer key, and saves results in a CSV.
+It does not execute student code.
+
+REQUIREMENTS:
+If u dont have python 3 it wouldn't run
+
+Steps:
+1. Download the repository using Code > Download ZIP.
+2. Extract the ZIP.
+3. Open the extracted project folder.
+4. Open a terminal in the folder containing grade_submissions.py.
+5. Run this command:
+python grade_submissions.py --submissions assignment-automation-starter/submissions --key assignment-automation-starter/solution_key.json --output results/grades.csv
+
+Expected results for DEMO001:
+Q1: matches_key, 1 point.
+Q2: review_needed, 0 points.
+Q3: missing, 0 points.
+
+Try your own submission:
+Copy demo_student.txt in the submissions folder.
+Give the copy a different filename and STUDENT_ID.
+Change the answers but keep all marker lines.
+Run the command again.
+
+Important:
+Different code can still be correct even if it does not
+match the key. An instructor must review the results.
+Running again replaces the previous results CSV.
+
+Feedback for our group:
+- Did the program run?
+- Were the instructions clear?
+- Did the results match what you expected?
+- If there was an error, what was the exact error message?
