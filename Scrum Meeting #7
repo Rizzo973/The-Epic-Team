@@ -1,0 +1,16 @@
+Date: November 16, 2026 
+Members Present: Braeden Perez, James Rizzo, Evan Belmont, Ian Mejia Gomez
+What We Discussed and Worked On
+Emailed Professor Kodie McNamara the results and progress of Part 1 of our automated grading project.
+Shared our completed work and explained how our grading system currently processes student submissions and generates grading results.
+Received feedback from Professor McNamara regarding our project's current approach.
+Discussed his suggestion that we adapt the grading system to work with his actual existing course assignments and solutions rather than the sample questions and dummy submissions we originally created.
+Reviewed the difference between our current sample-based grading system and what would be needed to apply it to real assignments from his course.
+Considered whether adapting the program to use the professor's existing assignments and solutions would be possible within the remaining project time.
+Discussed how his feedback could help make our project more practical and useful for its intended purpose.
+Our Next Steps:
+Review Professor McNamara's feedback and determine how to adapt our program to his existing assignments.
+Obtain and examine the actual course assignments and corresponding solutions.
+Determine what changes are needed to our existing files and Python program.
+Continue developing Part 2 based on the professor's recommendations.
+Work toward making the automated grading system compatible with real student submissions rather than only sample questions.
