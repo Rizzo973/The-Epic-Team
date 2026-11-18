@@ -1,0 +1,18 @@
+Date: November 9, 2026
+Members Present: Braeden Perez, James Rizzo, Evan Belmont, Ian Mejia Gomez
+What We Discussed and Worked On
+Began exploring potential ideas for Part 2 of our automated grading project.
+Discussed creating a separate Python program called scrape_submissions.py to collect student answers from submitted text files.
+Worked on an initial version of the program that searches through a submissions folder and reads student submission files.
+Explored how the program could identify student IDs, question numbers, submitted code, and written explanations using the formatting from our student answer template.
+Discussed organizing the extracted information into a CSV spreadsheet called submissions.csv.
+Reviewed how the collected student answers could eventually be used as input for the automated grading process in Part 3.
+Examined a potential folder structure for organizing the new Python file, existing project files, and student submissions.
+Ran through the general process of how the program would read submissions and organize the information.
+As a group, we agreed that the approach we had developed so far was a good direction for Part 2 and could work as the foundation for the next stage of the project.
+Our Next Steps:
+Continue developing and testing the submission-scraping program.
+Explore how to handle different student submissions and possible formatting issues.
+Make sure the extracted answers are organized correctly in the CSV file.
+Consider how the output from Part 2 will connect with the automated grading program in Part 3.
+Continue refining our approach before moving forward with the next stage of the project.
