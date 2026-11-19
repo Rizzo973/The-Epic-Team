@@ -1,6 +1,6 @@
 HOW TO GRADE SUBMISSIONS WITH THE ASSIGNMENT GRADER
 
-WHAT THE PRPOGRAM DOESÑ
+WHAT THE PRPOGRAM DOES
 This program reads student answer files and compares each answer key, and creates
 spreadsheet of results. It doesnt run student code. It just compares text.
 
