@@ -12,7 +12,7 @@ SETUP
 EVERY TIME YOU GRADE
 1. Put the students in a .txt files in this folder: assignment-automation-starter\assignment-automation-starter\submissions
 2. Open the main project folder (The one that contains grade_submissions.py) in File Explorer
-3. Click the address bar at the tope and type powershell and press enter
+3. Click the address bar at the top and type powershell and press enter
 4. Copy this command, paste it in the pSowershell window:
 python grade_submissions.py --submissions assignment-automation-starter/assignment-automation-starter/submissions --key assignment-automation-starter/solution_key.json --output results/grades.csv
 5. Something its going to appear like "Wrote X rows to results\grades.csv"
